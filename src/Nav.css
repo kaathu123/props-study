@@ -1,0 +1,25 @@
+.nav{
+    background-color: blue;
+    height: 100px;
+    width: 210vh;
+    display: flex;
+    flex-direction: row;
+  
+}
+.mainlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+   padding: 10px;
+    gap: 20px;
+}
+.list{
+    color: azure;
+    display: flex;
+   
+}
+.src{
+    height:80px;
+    width: 70px;
+    padding: 10px;
+}
